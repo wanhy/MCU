@@ -1,0 +1,207 @@
+[2021-08-24 11:36:10]	[done]
+	build successfully !
+
+[2021-08-24 14:45:20]	[done]
+	build successfully !
+
+[2021-08-24 14:46:03]	[done]
+	build successfully !
+
+[2021-08-24 14:46:20]	[done]
+	build successfully !
+
+[2021-08-24 14:47:46]	[done]
+	build successfully !
+
+[2021-08-24 14:48:20]	[done]
+	build successfully !
+
+[2021-08-24 14:48:56]	[done]
+	build successfully !
+
+[2021-08-24 14:50:24]	[done]
+	build successfully !
+
+[2021-08-24 14:51:38]	[done]
+	build successfully !
+
+[2021-08-24 14:52:09]	[done]
+	build successfully !
+
+[2021-08-24 14:56:19]	[done]
+	build successfully !
+
+[2021-08-24 14:57:35]	[done]
+	build successfully !
+
+[2021-08-24 15:14:21]	[done]
+	build successfully !
+
+[2021-08-24 15:14:48]	[done]
+	build successfully !
+
+[2021-08-24 15:15:30]	[done]
+	build successfully !
+
+[2021-08-24 15:16:11]	[done]
+	build successfully !
+
+[2021-08-24 15:17:55]	[done]
+	build successfully !
+
+[2021-08-24 15:19:24]	[done]
+	build successfully !
+
+[2021-08-24 15:20:23]	[done]
+	build successfully !
+
+[2021-08-24 15:22:41]	[done]
+	build successfully !
+
+[2021-08-24 15:34:20]	[done]
+	build successfully !
+
+[2021-08-24 15:37:52]	compilation failed at : "e:\智能车协会\工程模板\USER\main.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-24 15:38:46]	[done]
+	build successfully !
+
+[2021-08-24 15:58:12]	[done]
+	build successfully !
+
+[2021-08-24 15:58:51]	[done]
+	build successfully !
+
+[2021-08-24 15:59:29]	[done]
+	build successfully !
+
+[2021-08-24 16:00:10]	[done]
+	build successfully !
+
+[2021-08-24 16:02:43]	[done]
+	build successfully !
+
+[2021-08-24 16:03:18]	[done]
+	build successfully !
+
+[2021-08-24 16:04:30]	[done]
+	build successfully !
+
+[2021-08-24 16:05:44]	[done]
+	build successfully !
+
+[2021-08-24 16:06:10]	[done]
+	build successfully !
+
+[2021-08-24 16:07:48]	[done]
+	build successfully !
+
+[2021-08-24 16:10:24]	[done]
+	build successfully !
+
+[2021-08-24 16:10:39]	[done]
+	build successfully !
+
+[2021-08-24 16:21:09]	[done]
+	build successfully !
+
+[2021-08-24 16:21:46]	[done]
+	build successfully !
+
+[2021-08-24 16:21:53]	[done]
+	build successfully !
+
+[2021-08-24 16:22:10]	[done]
+	build successfully !
+
+[2021-08-24 16:22:37]	[done]
+	build successfully !
+
+[2021-08-24 16:27:17]	[done]
+	build successfully !
+
+[2021-08-24 16:31:36]	[done]
+	build successfully !
+
+[2021-08-24 16:34:22]	[done]
+	build successfully !
+
+[2021-08-24 17:39:46]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\USER\main.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-24 17:40:11]	[done]
+	build successfully !
+
+[2021-08-24 17:41:33]	[done]
+	build successfully !
+
+[2021-08-24 17:56:09]	[done]
+	build successfully !
+
+[2021-08-24 18:00:07]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-24 18:01:54]	[done]
+	build successfully !
+
+[2021-08-25 12:40:12]	[done]
+	build successfully !
+
+[2021-08-25 12:47:54]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 12:48:12]	[done]
+	build successfully !
+
+[2021-08-25 12:51:26]	link failed !, exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0127b] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 12:51:50]	[done]
+	build successfully !
+
+[2021-08-25 12:54:19]	link failed !, exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0127b] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 12:54:32]	[done]
+	build successfully !
+
+[2021-08-25 13:05:14]	[done]
+	build successfully !
+
+[2021-08-25 13:06:31]	[done]
+	build successfully !
+
+[2021-08-25 13:06:56]	[done]
+	build successfully !
+
+[2021-08-25 13:07:35]	[done]
+	build successfully !
+
+[2021-08-25 13:08:46]	[done]
+	build successfully !
+
+[2021-08-25 13:10:27]	[done]
+	build successfully !
+
+[2021-08-25 13:10:49]	[done]
+	build successfully !
+
+[2021-08-25 13:11:14]	[done]
+	build successfully !
+
+[2021-08-25 14:42:07]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 14:42:31]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 14:42:47]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-25 14:43:37]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+
+[2021-08-26 16:08:54]	compilation failed at : "e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\ADC\adc.c", exit code: 1
+  at unify_builder.Program.Main (System.String[] args) [0x0111d] in <9b26f9d89171412e906be2920459dd57>:0 
+

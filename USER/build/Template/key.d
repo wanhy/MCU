@@ -1,0 +1,46 @@
+.\build\Template\key.o: e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\KEY\key.c
+.\build\Template\key.o: e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\KEY\key.h
+.\build\Template\key.o: .\.\stm32f10x.h
+.\build\Template\key.o: .\..\CORE\core_cm3.h
+.\build\Template\key.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\Template\key.o: .\.\system_stm32f10x.h
+.\build\Template\key.o: .\.\stm32f10x_conf.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_adc.h
+.\build\Template\key.o: .\.\stm32f10x.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_bkp.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_can.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_cec.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_crc.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_dac.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_dbgmcu.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_dma.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_exti.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_flash.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_fsmc.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_gpio.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_i2c.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_iwdg.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_pwr.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_rcc.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_rtc.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_sdio.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_spi.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_tim.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_usart.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\stm32f10x_wwdg.h
+.\build\Template\key.o: .\..\STM32F10x_FWLIB\inc\misc.h
+.\build\Template\key.o: .\..\SYSTEM\delay\delay.h
+.\build\Template\key.o: .\..\SYSTEM\sys\sys.h
+.\build\Template\key.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\build\Template\key.o: e:\智能车协会\工程模板 - 副本 (2)\HARDWARE\KEY\key.h
+.\build\Template\key.o: .\..\HARDWARE\LED\led.h
+.\build\Template\key.o: .\..\HARDWARE\LED\led.h
+.\build\Template\key.o: .\..\HARDWARE\TIM\tim.h
+.\build\Template\key.o: .\..\HARDWARE\HEADFILE\headfile.h
+.\build\Template\key.o: .\..\HARDWARE\TIM\tim.h
+.\build\Template\key.o: .\..\SYSTEM\usart\usart.h
+.\build\Template\key.o: .\..\HARDWARE\PID\pid.h
+.\build\Template\key.o: .\..\HARDWARE\ADC\adc.h
+.\build\Template\key.o: .\..\HARDWARE\HEADFILE\headfile.h
+.\build\Template\key.o: .\..\HARDWARE\USART\usart1.h
+.\build\Template\key.o: .\..\HARDWARE\USART\usart1.h

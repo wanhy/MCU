@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore",
+            "spi_flash.h": "c",
+            "key.h": "c",
+            "led.h": "c",
+            "tim.h": "c",
+            "usart.h": "c",
+            "usart1.h": "c",
+            "stm32f10x_tim.h": "c",
+            "adc.h": "c",
+            "headfile.h": "c",
+            "gpio.h": "c"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "tim.h": "c",
+        "headfile.h": "c",
+        "oled.h": "c",
+        "pid.h": "c",
+        "adc.h": "c",
+        "oledfont.h": "c"
+    }
+}

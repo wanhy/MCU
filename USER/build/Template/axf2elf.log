@@ -1,0 +1,6 @@
+objcopy.exe --update-section ER_IROM1="e:\智能车协会\工程模板 - 副本 (2)\USER\build\Template\USER.bin" "e:\智能车协会\工程模板 - 副本 (2)\USER\build\Template\USER.axf" "e:\智能车协会\工程模板 - 副本 (2)\USER\build\Template\USER.elf"
+
+objcopy.exe: e:\智能车协会\工程模板 - 副本 (2)\USER\build\Template\USER.elf: warning: allocated section `RW_IRAM1' not in segment
+
+WARNING: The runtime version supported by this application is unavailable.
+Using default runtime: v4.0.30319

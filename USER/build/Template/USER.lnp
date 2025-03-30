@@ -1,0 +1,37 @@
+--cpu Cortex-M3 --library_type=microlib --scatter "e:/智能车协会/工程模板 - 副本 (2)/USER/build/Template/USER.sct" --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols --info sizes --info totals --info unused --info veneers
+--list .\build\Template\USER.map
+.\build\Template\core_cm3.o
+.\build\Template\adc.o
+.\build\Template\led.o
+.\build\Template\pid.o
+.\build\Template\tim.o
+.\build\Template\misc.o
+.\build\Template\stm32f10x_adc.o
+.\build\Template\stm32f10x_bkp.o
+.\build\Template\stm32f10x_can.o
+.\build\Template\stm32f10x_cec.o
+.\build\Template\stm32f10x_crc.o
+.\build\Template\stm32f10x_dac.o
+.\build\Template\stm32f10x_dbgmcu.o
+.\build\Template\stm32f10x_dma.o
+.\build\Template\stm32f10x_exti.o
+.\build\Template\stm32f10x_flash.o
+.\build\Template\stm32f10x_fsmc.o
+.\build\Template\stm32f10x_gpio.o
+.\build\Template\stm32f10x_i2c.o
+.\build\Template\stm32f10x_iwdg.o
+.\build\Template\stm32f10x_pwr.o
+.\build\Template\stm32f10x_rcc.o
+.\build\Template\stm32f10x_rtc.o
+.\build\Template\stm32f10x_sdio.o
+.\build\Template\stm32f10x_spi.o
+.\build\Template\stm32f10x_tim.o
+.\build\Template\stm32f10x_usart.o
+.\build\Template\stm32f10x_wwdg.o
+.\build\Template\delay.o
+.\build\Template\sys.o
+.\build\Template\usart.o
+.\build\Template\main.o
+.\build\Template\stm32f10x_it.o
+.\build\Template\system_stm32f10x.o
+.\build\Template\startup_stm32f10x_md.o -o .\build\Template\USER.axf
